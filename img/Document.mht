@@ -1,0 +1,47 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///Users/kisukjang/Desktop/test/index.html
+Subject: Document
+Date: Fri, 13 May 2022 12:41:10 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--0jtaItbbNfuFlAPpt4h6bPuf4TM8v5zRml47d91Jkd----"
+
+
+------MultipartBoundary--0jtaItbbNfuFlAPpt4h6bPuf4TM8v5zRml47d91Jkd----
+Content-Type: text/html
+Content-ID: <frame-D061F777532B9D60EF364305253A7C24@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///Users/kisukjang/Desktop/test/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+    <link rel=3D"stylesheet" href=3D"file:///Users/kisukjang/Desktop/test/1=
+.css">
+</head>
+<body>
+    <div>
+       <h2 id=3D"id">Hello!</h2>
+       =20
+       =20
+    </div>
+
+</body></html>
+------MultipartBoundary--0jtaItbbNfuFlAPpt4h6bPuf4TM8v5zRml47d91Jkd----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///Users/kisukjang/Desktop/test/1.css
+
+@charset "utf-8";
+
+body { background-color: red; }
+
+.big { background-color: blue; }
+
+.small { background-color: yellow; }
+------MultipartBoundary--0jtaItbbNfuFlAPpt4h6bPuf4TM8v5zRml47d91Jkd------
